@@ -9,3 +9,5 @@ echo
 git clone https://github.com/viceo/drawio.git
 git clone https://github.com/viceo/drawio-codegen-microservice.git
 git clone https://github.com/viceo/drawio-nginx-gateway.git
+docker-compose build
+docker-compose up -d
